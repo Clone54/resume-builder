@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Builder",
+  "description": "Build an ATS-friendly, single-column resume by completing a form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
